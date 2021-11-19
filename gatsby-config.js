@@ -3,6 +3,7 @@ module.exports = {
     description: "Portfolio of Austin Randolph",
     locale: "en",
     title: "Austin Randolph",
+    formspreeEndpoint: "https://formspree.io/f/xgergqed",
   },
   plugins: [
     {

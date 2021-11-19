@@ -1,18 +1,22 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
-  status: in progress
-  tags:
-    - JavaScript
-    - Gatsby
-  icon: github
-
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Neighborly
+  url: https://neighbor-app.herokuapp.com/
+  description: Final project for UNH coding bootcamp, simple social network app similar to nextdoor.
   status: live
   tags:
-    - JavaScript
-    - HTML
+    - React
+    - MongoDB
+    - Express
+    - Node
+    - React-Bootstrap
   icon: website
-  image: images/project.jpg
+  image: images/Neighborly.jpg
+
+- name: Arduino Thermometer/Hydrometer
+  url: https://github.com/Ordolph/thermometerWithScreen
+  description: Simple thermometer/hydrometer built with an arduino LCD screen module and thermometer/hydrometer module.
+  tags:
+    - C++
+    - Arduino
+    - Prototype
+  icon: github
+  image: images/Arduino.jpg
