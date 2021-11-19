@@ -13,13 +13,14 @@
 
   skills:
     - JavaScript, React, Vue, jQuery
-    - Express, Node
+    - Express, Node, C#DotNET
     - MySql, MSSQL, PostgreSql
   tools:
-    - React
-    - VSCode/Visual Studio
-    - Gatsby
+    - Git
     - SSMS
+    - React
+    - Gatsby
+    - VSCode/Visual Studio
   budget:
     currency: $
     min: 5
